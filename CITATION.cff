@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this implementation, please cite the VAPOR work."
+title: "VAPOR: Improving Multimodal Reasoning with Sparse Visual Updates"
+type: software
+version: 0.1.0
+license: Apache-2.0
+authors:
+  - family-names: Su
+    given-names: Mingyu
+  - family-names: Wu
+    given-names: Wei
+  - family-names: Zhu
+    given-names: Eele
+  - family-names: Xie
+    given-names: Chengxing
+  - family-names: Hong
+    given-names: Deyao
+  - family-names: Wang
+    given-names: Hongning

@@ -1,0 +1,1 @@
+{"rank":16,"cache_age":256,"threshold":0.05,"consistency_cutoff":0.7,"low_consistency_threshold":0.15,"calibrate":true,"max_new_tokens":8192,"prefill_query_block":512,"prefill_chunk_threshold":8192}

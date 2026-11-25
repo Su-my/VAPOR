@@ -1,0 +1,13 @@
+VAPOR
+Copyright 2026 VAPOR contributors.
+
+This distribution includes the VAPOR research attention implementation and
+new packaging, model adapters, and examples. It is licensed under Apache-2.0.
+
+The code integrates with PyTorch, Transformers, Triton, Qwen3-VL, and InternVL.
+Their packages, remote model code, and pretrained weights are not redistributed
+here and remain subject to their respective licenses. The InternVL image example
+follows the model's published image tiling and conversation-template conventions.
+
+External comparison methods, including VisionPulse, are separate works and
+are not included as VAPOR implementation code.

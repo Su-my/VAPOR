@@ -1,0 +1,27 @@
+__pycache__/
+*.py[cod]
+*.so
+*.o
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.venv/
+.env
+.env.*
+*.pem
+*.key
+models/
+datasets/
+outputs/
+.cache/
+.DS_Store
+
+# Local backup and release-audit files
+*.bak
+*.orig
+*.rej
+*~
+docs/source_manifest.json
+PRIVATE_*
+RELEASE_CHECK.json
